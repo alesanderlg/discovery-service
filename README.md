@@ -1,6 +1,6 @@
 ## **Building your Spring Eureka Service**
 
-### **Properties to tet up the Eureka configuration**
+### **Properties to set up the Eureka configuration**
 
 ```
 spring:
